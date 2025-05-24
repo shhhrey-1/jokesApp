@@ -1,0 +1,32 @@
+body{
+    background-image: url(background\ jokes.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.content{
+    height: 350px;
+    width: 350px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    margin: 150px auto;
+}
+
+#setup{
+    color: blueviolet;
+    
+}
+
+#punchline{
+    color: blueviolet;
+    
+}
+
+#Jokes{
+   width: 100px;
+   margin: 0 auto;
+}
